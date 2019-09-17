@@ -119,5 +119,8 @@ img.my-picture {
 }
 
 .footer {
+  padding: 4em;
+  max-width: 100%;
   background-color: #294860;
+  color: white;
 }
